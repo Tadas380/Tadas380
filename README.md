@@ -23,7 +23,7 @@ Junior developer with a **Cybersecurity and Systems** degree (Kauno Kolegija, 20
 | 💬 | **[AI Website Assistant](https://github.com/Tadas380/ai-website-assistant)** | Embeddable AI chat widget for business websites (Gemini API), lead capture and Discord alerts | [Live ↗](https://ai-website-assistant-k9c7.onrender.com) |
 | 📊 | **[Subscriber Insights](https://github.com/Tadas380/subscriber-insights)** | Shopify embedded app: MRR, churn and at-risk subscribers with real-time Recharge webhooks | |
 | 📅 | **[LT Calendar API](https://github.com/Tadas380/lt-calendar-api)** | Open REST API for Lithuanian name days and public holidays, zero dependencies, CI | |
-| 🚌 | **Kaunas Transit Live** | Live map of Kaunas buses and trolleybuses | [Live ↗](https://kaunas-transit-live.onrender.com) |
+| 🚌 | **[Kaunas Transit Live](https://github.com/Tadas380/kaunas-transit-live)** | Live map of Kaunas buses and trolleybuses | [Live ↗](https://kaunas-transit-live.onrender.com) |
 | 🤖 | **[Price-Monitoring Bot](https://github.com/Tadas380/bot)** | Python bot that finds underpriced marketplace listings and sends Discord alerts, 62 tests | |
 
 ### 🧰 Tech I use
